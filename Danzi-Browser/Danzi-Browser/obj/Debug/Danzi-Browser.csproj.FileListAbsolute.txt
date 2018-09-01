@@ -1,0 +1,10 @@
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\bin\Debug\Danzi-Browser.exe
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\bin\Debug\Danzi-Browser.pdb
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi-Browser.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi_Browser.DanziBrowse.resources
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi_Browser.Properties.Resources.resources
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi-Browser.csproj.GenerateResource.Cache
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi-Browser.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi-Browser.exe
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi-Browser.pdb
+C:\Users\Gamer\Documents\Files\My Webrowser\Danzi-Browser\Danzi-Browser\obj\Debug\Danzi_Browser.frmSplashScreen.resources
